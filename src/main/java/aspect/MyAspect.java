@@ -16,9 +16,3 @@ public class MyAspect {
 		System.out.println("性能监测");
 	}
 }
-
-
-
-
-
-
